@@ -33,6 +33,7 @@ a:hover{
     text-decoration: underline;
     color: darkgoldenrod;
 }
+
 .pic{
     position: absolute;
     left: 60%;
@@ -86,6 +87,6 @@ border: none;
     gap: 20px;
     border-color: rgb(250, 248, 248);
 }
-.circle,black{background-color:;
-
+.spn1{
+    color: white;
 }
