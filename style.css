@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.container{height: 100vh;
+    font-family: "Prompt", serif;
+    background-color: rgb(5, 5, 5);
+}
+.navlink{ display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px,50px;
+    margin: 0px,40px;
+
+}
+.nav-items{display: flex;
+    gap: 20px;
+    font-family: "Prompt", serif;
+     font-size: large;
+}
+.span,a{color: white;
+    
+   
+}
+
+.span{ padding: 100px;
+}
+a{
+text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: darkgoldenrod;
+}
+.pic{
+    position: absolute;
+    left: 60%;
+    top: 0%;
+}
+.big-button{
+    width: 180px;
+    height: 50px;
+font-size: 20px;
+padding: 10px 20px;
+border: none;
+}
+.circle{ text-align: center;
+    color: black;
+    background-color:chocolate;
+    border-radius: 18%;
+    height: 30px;
+    width:100px;
+    display: flex;
+    border-color: blanchedalmond;
+}
+
+.circle2{  text-align: center;
+    color: white;
+    background-color:black;
+    border-radius: 18%;
+    height: 30px;
+    width:100px;
+    display: flex;
+    border-color:white,
+    
+
+}
+.p1{
+    color: chocolate;
+}
+.h1{
+    color: chocolate;
+}
+.p2{
+    color: white;
+}
+.style{
+ padding: 100px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+}
+.style2{
+    display: flex;
+    gap: 20px;
+    border-color: rgb(250, 248, 248);
+}
+.circle,black{background-color:;
+
+}
